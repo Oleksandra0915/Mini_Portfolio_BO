@@ -15,6 +15,16 @@
   --green-soft: #f0fdf4;
 }
 
+body.dark {
+  --bg: #121212;
+  --text: #ffffff;
+  --muted: #a0a0a0;
+  --border: #333333;
+  --accent: #7c6ef0;
+  --accent-soft: #f0eeff;
+  --green-soft: #3a3a3a;
+}
+
 body {
   background: var(--bg);
   color: var(--text);
