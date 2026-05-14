@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Oleksandra0915/Mini_Portfolio_BO.git/static/css/main.e5b8f2a3.css",
-    "main.js": "/Oleksandra0915/Mini_Portfolio_BO.git/static/js/main.d9394d52.js",
+    "main.js": "/Oleksandra0915/Mini_Portfolio_BO.git/static/js/main.eb13822a.js",
     "static/js/453.15a626a8.chunk.js": "/Oleksandra0915/Mini_Portfolio_BO.git/static/js/453.15a626a8.chunk.js",
     "static/media/photo.jpg": "/Oleksandra0915/Mini_Portfolio_BO.git/static/media/photo.99a762886195207b542f.jpg",
     "index.html": "/Oleksandra0915/Mini_Portfolio_BO.git/index.html",
     "main.e5b8f2a3.css.map": "/Oleksandra0915/Mini_Portfolio_BO.git/static/css/main.e5b8f2a3.css.map",
-    "main.d9394d52.js.map": "/Oleksandra0915/Mini_Portfolio_BO.git/static/js/main.d9394d52.js.map",
+    "main.eb13822a.js.map": "/Oleksandra0915/Mini_Portfolio_BO.git/static/js/main.eb13822a.js.map",
     "453.15a626a8.chunk.js.map": "/Oleksandra0915/Mini_Portfolio_BO.git/static/js/453.15a626a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5b8f2a3.css",
-    "static/js/main.d9394d52.js"
+    "static/js/main.eb13822a.js"
   ]
 }
